@@ -26,7 +26,7 @@
       "run": "python main.py",
       "input": "9 10 11\r\n1 2 3 4",
       "output": "[\\w,\\W]*9[\\w,\\W]*10[\\w,\\W]*11[\\w,\\W]*[\\w,\\W]*1[\\w,\\W]*2[\\w,\\W]*3[\\w,\\W]*4[\\w,\\W]*",
-      "comparison": "included",
+      "comparison": "regex",
       "timeout": 10,
       "points": 1
     }
